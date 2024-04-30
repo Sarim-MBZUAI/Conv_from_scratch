@@ -8,6 +8,12 @@ A Convolutional Neural Network (CNN) is a type of Feed-Forward Neural Network (F
 
 The core concept behind CNNs is the convolution operation. Understanding this operation is crucial to grasp the inspiration behind CNNs. For a more in-depth explanation, refer to the 3Blue1Brown video on convolution [here](https://youtu.be/KuXjwB4LzSA?si=iFf6zbMQY-0KC4RR).
 
+<p align="center">
+  <img src="https://github.com/Sarim-MBZUAI/Conv_from_scratch/blob/main/conv_image.png" alt=" Standard 2d CNN for image classification" width="75%"/>
+  <br>
+  <strong>Figure 2:</strong>  Standard 2d CNN for image classification
+</p>
+
 ## CNN Structure
 
 The structure of a CNN typically consists of the following components:
