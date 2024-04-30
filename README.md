@@ -1,4 +1,4 @@
-# Convolutional Neural Network (CNN) Overview
+# Convolutional Neural Network (CNN) from scratch
 
 ## Introduction
 
@@ -6,7 +6,7 @@ A Convolutional Neural Network (CNN) is a type of Feed-Forward Neural Network (F
 
 ### What is a Convolution?
 
-The core concept behind CNNs is the convolution operation. Understanding this operation is crucial to grasp the inspiration behind CNNs. For a more in-depth explanation, refer to the 3Blue1Brown video on convolution [here](https://www.youtube.com/watch?v=IOHayh06LJ4).
+The core concept behind CNNs is the convolution operation. Understanding this operation is crucial to grasp the inspiration behind CNNs. For a more in-depth explanation, refer to the 3Blue1Brown video on convolution [here](https://youtu.be/KuXjwB4LzSA?si=iFf6zbMQY-0KC4RR).
 
 ## CNN Structure
 
