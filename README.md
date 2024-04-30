@@ -11,7 +11,7 @@ The core concept behind CNNs is the convolution operation. Understanding this op
 <p align="center">
   <img src="https://github.com/Sarim-MBZUAI/Conv_from_scratch/blob/main/conv_image.png" alt=" Standard 2d CNN for image classification" width="75%"/>
   <br>
-  <strong>Figure 2:</strong>  Standard 2d CNN for image classification
+  <strong>Figure 1:</strong>  Standard 2d CNN for image classification
 </p>
 
 ## CNN Structure
